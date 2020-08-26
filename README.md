@@ -1,2 +1,2 @@
-# Golang-
+# Golang
 Restful JSON API
